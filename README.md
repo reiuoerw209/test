@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/reiuoerw209/test/main/media_DeepMindOrganizer/10-royal-enfield-classic-chrome-500-gris-2017.jpg" alt="10-royal-enfield-classic-chrome-500-gris-2017.jpg" width="343" height="229" />
 
-<video controls preload="metadata" data-media-id="193b90be-051a-44c6-80b5-1da00700d88d" data-github-url="https://raw.githubusercontent.com/reiuoerw209/test/main/media_DeepMindOrganizer/byron.mp4" width="311" height="175" style="max-width: 100%;" src="https://raw.githubusercontent.com/reiuoerw209/test/main/media_DeepMindOrganizer/byron.mp4"><source src="https://raw.githubusercontent.com/reiuoerw209/test/main/media_DeepMindOrganizer/byron.mp4" type="video/mp4" />Tu navegador no soporta el elemento video.</video>
+[🎥 byron.mp4](https://raw.githubusercontent.com/reiuoerw209/test/main/media_DeepMindOrganizer/byron.mp4)
 
 
 > ### 📄 hola.pdf
