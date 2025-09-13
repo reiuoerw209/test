@@ -1,7 +1,6 @@
 # Pene
 
-<details>
-<summary>🔍 Vista previa del PDF</summary>
+[🎥 byron.mp4](https://raw.githubusercontent.com/reiuoerw209/test/main/media_DeepMindOrganizer/byron.mp4)
 
 ```
 Archivo PDF: hola.pdf
