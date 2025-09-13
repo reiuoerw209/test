@@ -1,5 +1,11 @@
 # Pene
 
+<img src="https://raw.githubusercontent.com/reiuoerw209/test/main/media/10-royal-enfield-classic-chrome-500-gris-2017.jpg" alt="10-royal-enfield-classic-chrome-500-gris-2017.jpg" width="356" height="237" />
+
+[🎥 byron.mp4](https://raw.githubusercontent.com/reiuoerw209/test/main/media/byron.mp4)
+
+[📄 hola.pdf](https://raw.githubusercontent.com/reiuoerw209/test/main/media/hola.pdf)
+
 This repository contains sample data and code examples for testing purposes.
 
 ## Sample Data
