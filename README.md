@@ -2,17 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/reiuoerw209/test/main/media/ChatGPT%20Image%20Apr%204%2C%202025%2C%2006_41_25%20PM.png" alt="ChatGPT Image Apr 4, 2025, 06_41_25 PM.png" width="143" height="215" />
 
-
-> ### 🎥 Video: byron.mp4
-> 
-> **[⬇️ Descargar y reproducir video](https://raw.githubusercontent.com/reiuoerw209/test/main/media/byron.mp4)**
-> 
-> *GitHub no soporta reproducción de videos inline. Haz clic para descargar.*
+![chistes.mp4](media:eca39867-8a00-4a4d-8238-5767369777b7:video)
 
 
-
-
-> ### 📄 Documento: hola.pdf
+> ### 📄 Documento: hola.pdf (283×384)
 > 
 > **[⬇️ Descargar PDF](https://raw.githubusercontent.com/reiuoerw209/test/main/media/hola.pdf)**
 > 
