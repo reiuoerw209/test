@@ -1,5 +1,15 @@
 # Pene
 
+[📄 hola.pdf](https://raw.githubusercontent.com/reiuoerw209/test/main/media/hola.pdf)
+
+> **[⬇️ Descargar PDF](https://raw.githubusercontent.com/reiuoerw209/test/main/media/hola.pdf)**
+> 
+> *GitHub no soporta vista previa de PDFs. Haz clic para descargar.*
+
+[🎥 byron.mp4](https://raw.githubusercontent.com/reiuoerw209/test/main/media/byron.mp4)
+
+<img src="https://raw.githubusercontent.com/reiuoerw209/test/main/media/ChatGPT%20Image%20Apr%204%2C%202025%2C%2006_41_25%20PM.png" alt="ChatGPT Image Apr 4, 2025, 06_41_25 PM.png" width="255" height="383" />
+
 This repository contains sample data and code examples for testing purposes.
 
 ## Sample Data
