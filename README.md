@@ -1,5 +1,7 @@
 # Pene
 
+![Captura_de_pantalla_2025-07-12_104822.png](media:a282a261-4d8f-46d5-8c48-29827a24eb86:image)
+
 This repository contains sample data and code examples for testing purposes.
 
 ## Sample Data
