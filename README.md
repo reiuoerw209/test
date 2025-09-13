@@ -1,7 +1,5 @@
 # Pene
 
-[📄 hola.pdf](https://raw.githubusercontent.com/reiuoerw209/test/main/media/hola.pdf)
-
 This repository contains sample data and code examples for testing purposes.
 
 ## Sample Data
