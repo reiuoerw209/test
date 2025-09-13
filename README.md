@@ -1,23 +1,4 @@
-# Pene
-
-<img src="https://raw.githubusercontent.com/reiuoerw209/test/main/media_DeepMindOrganizer/10-royal-enfield-classic-chrome-500-gris-2017.jpg" alt="10-royal-enfield-classic-chrome-500-gris-2017.jpg" width="343" height="229" />
-
-[🎥 byron.mp4](https://raw.githubusercontent.com/reiuoerw209/test/main/media_DeepMindOrganizer/byron.mp4)
-
-
-> ### 📄 hola.pdf
-> 
-> **[📖 Abrir PDF en nueva pestaña](https://raw.githubusercontent.com/reiuoerw209/test/main/media_DeepMindOrganizer/hola.pdf)**
-> 
-> *Dimensiones: 800x600px*
-
-<div data-media-id="b556bec2-2f7e-4a1d-acd0-4bc13c9acd92" data-github-url="https://raw.githubusercontent.com/reiuoerw209/test/main/media_DeepMindOrganizer/hola.pdf" data-pdf-width="800" data-pdf-height="600" style="border: 2px dashed #ccc; padding: 20px; text-align: center; border-radius: 8px; background: #f9f9f9;">
-  <p>📄 <strong>hola.pdf</strong></p>
-  <p><a href="https://raw.githubusercontent.com/reiuoerw209/test/main/media_DeepMindOrganizer/hola.pdf" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">🔗 Ver PDF en GitHub</a></p>
-  <p style="font-size: 0.9em; color: #666;">Tamaño personalizado: 800x600px</p>
-</div>
-
-
+# Intro
 
 This repository contains sample data and code examples for testing purposes.
 
