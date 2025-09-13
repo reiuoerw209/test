@@ -1,15 +1,5 @@
 # Pene
 
-[🎥 byron.mp4](https://raw.githubusercontent.com/reiuoerw209/test/main/media/byron.mp4)
-
-<img src="https://raw.githubusercontent.com/reiuoerw209/test/main/media/10-royal-enfield-classic-chrome-500-gris-2017.jpg" alt="10-royal-enfield-classic-chrome-500-gris-2017.jpg" width="501" height="334" />
-
-[📄 hola.pdf](https://raw.githubusercontent.com/reiuoerw209/test/main/media/hola.pdf)
-
-> **[⬇️ Descargar PDF](https://raw.githubusercontent.com/reiuoerw209/test/main/media/hola.pdf)**
-> 
-> *GitHub no soporta vista previa de PDFs. Haz clic para descargar.*
-
 This repository contains sample data and code examples for testing purposes.
 
 ## Sample Data
