@@ -4,7 +4,6 @@
 
 > **[⬇️ Descargar PDF](https://raw.githubusercontent.com/reiuoerw209/test/main/media/hola.pdf)**
 > 
-> *GitHub no soporta vista previa de PDFs. Haz clic para descargar.*
 
 [🎥 byron.mp4](https://raw.githubusercontent.com/reiuoerw209/test/main/media/byron.mp4)
 
