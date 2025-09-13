@@ -1,7 +1,5 @@
 # Pene
 
-[🎥 byron.mp4](https://raw.githubusercontent.com/reiuoerw209/test/main/media/byron.mp4)
-
 This repository contains sample data and code examples for testing purposes.
 
 ## Sample Data
