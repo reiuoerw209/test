@@ -1,31 +1,5 @@
 # Pene
 
-[🎥 byron.mp4](https://raw.githubusercontent.com/reiuoerw209/test/main/media_DeepMindOrganizer/byron.mp4)
-
-<img src="https://raw.githubusercontent.com/reiuoerw209/test/main/media_DeepMindOrganizer/10-royal-enfield-classic-chrome-500-gris-2017.jpg" alt="10-royal-enfield-classic-chrome-500-gris-2017.jpg" width="325" height="217" />
-
-
-> ### 📄 hola.pdf
-> 
-> **[📖 Ver PDF](https://raw.githubusercontent.com/reiuoerw209/test/main/media_DeepMindOrganizer/hola.pdf)**
-> 
-> *Haz clic en el enlace para abrir el PDF. Si no se visualiza correctamente, descárgalo desde GitHub.*
-
-<details>
-<summary>🔍 Vista previa del PDF</summary>
-
-```
-Archivo PDF: hola.pdf
-URL: https://raw.githubusercontent.com/reiuoerw209/test/main/media_DeepMindOrganizer/hola.pdf
-Tipo: application/pdf
-```
-
-**[⬇️ Descargar PDF](https://raw.githubusercontent.com/reiuoerw209/test/main/media_DeepMindOrganizer/hola.pdf)**
-
-</details>
-
-
-
 This repository contains sample data and code examples for testing purposes.
 
 ## Sample Data
